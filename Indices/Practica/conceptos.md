@@ -8,5 +8,5 @@
     
     
 3. - Ficheros de configuración
-   - Fichero de configuracion de nginx **El más importante**
+   * Fichero de configuracion de nginx **El más importante**
     https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.1.png
