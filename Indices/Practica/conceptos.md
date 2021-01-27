@@ -9,17 +9,17 @@
     
 3.  Ficheros de configuración
             
-            * Fichero de configuracion de nginx **El más importante**
-            https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.1.png
+       * Fichero de configuracion de nginx **El más importante**
+        https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.1.png
    
-            * ¿Dónde se guardan los sitios virtuales?
-            https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.2.png
+       * ¿Dónde se guardan los sitios virtuales?
+       https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.2.png
    
-            * ¿Dónde se encuentran los LOGS?
-            https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.3.png
+       * ¿Dónde se encuentran los LOGS?
+       https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.3.png
    
-            * ¿Dónde se debe de crear las carpetas para los sitios virtuales?
-             https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.4.png
+       * ¿Dónde se debe de crear las carpetas para los sitios virtuales?
+       https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.4.png
    
-            * Modificar la página web por defecto
-            https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png
+       * Modificar la página web por defecto
+       https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png
