@@ -15,7 +15,7 @@ La autentificación sirve para proteger el contenido de nuestra página web
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.1.png)
    
 ### 3. Creamos los usuarios que podrán acceder a dicha ruta
-   Creamos una carpeta donde se guardara el archivo con los usuarios autentificados y luego los creamos
+   Creamos una carpeta donde se guardará el archivo con los usuarios autentificados y luego los creamos
    
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.2.png)
    
