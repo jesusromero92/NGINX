@@ -10,11 +10,13 @@ El cliente de la red interna,podrá acceder a ambas páginas,pero el cliente ext
 2. Modificamos la configuración de los sitios virtuales:
 
   * **Web1**
+  
     A dicha web solo podrán acceder las IP que provenga de la red **2.0 y 3.0** || *"Deny all"* es opcional
     
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.4-web1.png)
    
   * **Web2**
+  
     Solo podrán acceder las ip que provengan de la red **3.0** y deniega las demás conexiones
     
     ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.4-web2.png)
@@ -24,7 +26,12 @@ El cliente de la red interna,podrá acceder a ambas páginas,pero el cliente ext
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
 
+4. Reiniciamos el servidor para aplicar los cambios
+
+```systemctl restart nginx```
+
 4. Comprobaciones
+
   * **Cliente red externa** --> SÍ podrá acceder a web1.org pero NO a web2org
   
   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.1-externa.png)
