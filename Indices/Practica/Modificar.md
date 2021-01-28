@@ -7,4 +7,4 @@
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/Indice/4.png)
 
 3. Comprobamos que ha funcionado **no hace falta reiniciar el servicio** 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/Indice/4.1.png)
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/4.1.png)
