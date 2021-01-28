@@ -5,9 +5,9 @@ El cliente de la red interna,podrá acceder a ambas páginas,pero el cliente ext
 
 ### Pasos
 
-1. Mantenemos la configuración de **/etc/hosts**
+### 1. Mantenemos la configuración de **/etc/hosts**
 
-2. Modificamos la configuración de los sitios virtuales:
+### 2. Modificamos la configuración de los sitios virtuales:
 
   * **Web1**
   
@@ -22,15 +22,15 @@ El cliente de la red interna,podrá acceder a ambas páginas,pero el cliente ext
     ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.4-web2.png)
     
 
-3. Comprobamos que la configuración es correcta
+### 3. Comprobamos que la configuración es correcta
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
 
-4. Reiniciamos el servidor para aplicar los cambios
+### 4. Reiniciamos el servidor para aplicar los cambios
 
 ```systemctl restart nginx```
 
-4. Comprobaciones
+### 4. Comprobaciones
 
   * **Cliente red externa** --> SÍ podrá acceder a web1.org pero NO a web2org
   
