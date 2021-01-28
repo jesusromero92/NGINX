@@ -8,6 +8,6 @@
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/4.png)
 
-3. Comprobamos que ha funcionado **no hace falta reiniciar el servicio** 
+3. Comprobamos que ha funcionado || **NO hace falta reiniciar el servicio** 
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/4.1.png)
