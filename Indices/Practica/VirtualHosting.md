@@ -1,5 +1,5 @@
 # Virtual Hosting
-En esta práctica,voy a crear 2 sitios virtuales con nombres diferentes y vamos a poder acceder desde un dominio local
+## En esta práctica,voy a crear 2 sitios virtuales con nombres diferentes y vamos a poder acceder desde un dominio local
 
 1. Procedemos el directorio de ambos sitios virtuales **(Document Root)**
    Dicho directorio es donde se guardará toda la informacion a mostrar en el navegador
