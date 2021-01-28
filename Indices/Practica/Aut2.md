@@ -5,6 +5,6 @@ La autentificación sirve para proteger el contenido de nuestra página web
 ### Pasos
 
 ### 1. Creamos el directorio **privado** de nuestra página web
-    Para ello,vamos a su **Directorio Raíz** y creamos la carpeta
+   Para ello,vamos a su **Directorio Raíz** y creamos la carpeta
     
-    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.png)
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.png)
