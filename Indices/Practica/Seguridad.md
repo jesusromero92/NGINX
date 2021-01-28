@@ -15,7 +15,7 @@ Nos pedirá una frase,introducimos la que nosotros queramos,pero debemos recorda
 ### 3. Generamos el certificado *aun sin firmar*
    Rellamos los datos y es **importante introducir correctamente el *FQDN***
    
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.3.png)
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.4.png)
 
 ### 4. Firmamos el certificado con la clave privada que generamos antes
 Debemos introducir la frase que pusimos en la clave privada
