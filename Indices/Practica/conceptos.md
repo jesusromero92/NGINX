@@ -6,6 +6,7 @@
       
       
 2.  Servicio asociado --> nginx
+
     ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/2.png)
     
     
