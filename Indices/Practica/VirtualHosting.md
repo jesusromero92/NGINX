@@ -6,6 +6,16 @@
    
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.2.png)
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 2. Creamos el archivo de configuración de cada sitio virtual de la siguiente mannera:
    Copiamos el default,ya que servirá como **base** para la configuración de nuestro sitio virtual
    
