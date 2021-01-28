@@ -9,3 +9,15 @@ Si accedemos desde la red externa pedirá autorización,pero desde la red intern
 ### 2. Configuramos el sitio virtual de nuevo
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.1.png)
+
+### 3. Comprobaciones
+
+   * Cliente red externa
+   
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.2.png)
+   
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.3.png)
+   
+   * Cliente red interna
+
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.3.png)
