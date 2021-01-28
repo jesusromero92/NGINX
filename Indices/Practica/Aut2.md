@@ -29,7 +29,7 @@ La autentificación sirve para proteger el contenido de nuestra página web
    
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.3.png)
    
-### 5. Comprobamos la configuración que es correcta
+### 5. Comprobamos que la configuración es correcta
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
 
