@@ -34,5 +34,10 @@ El cliente de la red interna,podrá acceder a ambas páginas,pero el cliente ext
 
   * **Cliente red externa** --> SÍ podrá acceder a web1.org pero NO a web2org
   
-  ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.1-externa.png)
   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.2-externa.png)
+  ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.1-externa.png)
+  
+  * **Cliente red interna** --> Podrá acceder a ambas páginas
+  
+  ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.3-interna.png)
+  ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/6.3.4-interna.png)
