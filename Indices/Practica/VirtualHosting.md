@@ -19,7 +19,7 @@
          
     * Web 2
     
-          ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.1.3.png)
+         ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.1.3.png)
           
 4. Comprobamos que la configuración es correcta
  
@@ -31,6 +31,7 @@
 
    
 6. Reiniciamos el servicio para que se aplique la configuración
+
 ```systemctl restart nginx```
 
 7. Solo queda configurar los DNS Locales para poder acceder
