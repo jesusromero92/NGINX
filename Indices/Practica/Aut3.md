@@ -10,7 +10,15 @@ Si accedemos desde la red externa pedirá autorización,pero desde la red intern
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.1.png)
 
-### 3. Comprobaciones
+### 3. Comprobamos que la configuración es correcta
+
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
+
+### 4. Reiniciamos el servicio
+
+```systemctl restart nginx```
+
+### 5. Comprobaciones
 
    * Cliente red externa
    
@@ -20,4 +28,4 @@ Si accedemos desde la red externa pedirá autorización,pero desde la red intern
    
    * Cliente red interna
 
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.3.png)
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.5.png)
