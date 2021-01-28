@@ -7,7 +7,7 @@
       
 ### 2.  Servicio asociado --> nginx
 
-    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/2.png)
+   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/2.png)
     
     
 ### 3.  Ficheros de configuración
