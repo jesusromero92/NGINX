@@ -8,6 +8,7 @@
 ### 2.  Servicio asociado --> nginx
 
 **Reiniciar servicio** --> ```systemctl restart nginx```
+
 **Recargar servicio** --> ```systemctl reload nginx```
      
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/2.png)
