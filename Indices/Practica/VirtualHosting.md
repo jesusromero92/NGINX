@@ -21,13 +21,13 @@
    
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.1.png)
      
-### 3. Configuramos dichos archivo de la siguiente forma:
+### 3. Configuramos los archivos de configuración de la siguiente forma:
 
-   * Web 1
+   * **Web 1**
     
         ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.1.2.png)
          
-   * Web 2
+   * **Web 2**
     
         ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.1.3.png)
           
