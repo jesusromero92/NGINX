@@ -24,6 +24,7 @@ La autentificación sirve para proteger el contenido de nuestra página web
    Añadimos el último párrafo,donde especificamos que ruta queremos proteger con contraseña
    
    **auth_Basic** Es el mensaje a mostrar cuando nos pida autentificarnos
+   
    **auth_basic_user_file** Es el archivo que guarda los usuarios que podran acceder
    
    ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.3.png)
