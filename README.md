@@ -14,4 +14,5 @@ El proyecto consiste en investigar sobre NGINX y crear varios sitios virtuales q
   * [Autentificación](https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/)
   * [Crear Certificado](https://www.xn--linuxenespaol-skb.com/tutoriales/crear-certificado-ssl-autofirmado-openssl/)
   * [Habilitar HTTPS](https://techexpert.tips/es/nginx-es/habilitar-https-en-nginx/)
-
+  * [Ficheros de Configuración](https://www.nexolinux.com/servidor-web-nginx-instalacion-y-ficheros-de-configuracion/)
+  
