@@ -15,11 +15,11 @@ Uno de los puntos fuertes de Nginx,es que este servidor es mucho más intuitivo 
 ## ¿Quién es más seguro?
 Ambos servidores empatan, ya que ambos se toman muy en serio la seguridad de sus aplicaciones, cuentan con medidas de seguridad para mitigar, por ejemplo, ataques DDoS, malware y Phishing, y publican periódicamente informes de seguridad y actualizaciones de mantenimiento.
 
+________
 ## Otras diferencias
-_
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/Indice/2.1.png)
-__________________________________________________________________________________
 
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/Indice/2.1.png)
+________
 ## Entonces,¿Cuál eligo?
 Ambos servidores van a funcionar bien y van a mantener nuestra web segura. Ahora es ya cuestión de cada uno que elija el que mejor se adapte a sus necesidades.
 
