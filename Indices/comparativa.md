@@ -18,6 +18,7 @@ Ambos servidores empatan, ya que ambos se toman muy en serio la seguridad de sus
 ## Otras diferencias
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/Indice/2.1.png)
+__________________________________________________________________________________
 
 ## Entonces,¿Cuál eligo?
 Ambos servidores van a funcionar bien y van a mantener nuestra web segura. Ahora es ya cuestión de cada uno que elija el que mejor se adapte a sus necesidades.
