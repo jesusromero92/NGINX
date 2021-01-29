@@ -1,6 +1,8 @@
 # Instalación
 Vamos a proceder con la instalacion de NGINX en **Debian 10 buster**
-1. - ``` apt update ```
+1. - ``` 
+$ apt update 
+```
 2. - Instalamos el paquete
     ``` apt install nginx ```
 3. - Comprobamos que se instalado
