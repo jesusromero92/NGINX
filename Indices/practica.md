@@ -1,4 +1,4 @@
-# Casos Practicos
+# Casos Practicos ⚙️
 Aquí se recoge las practicas que se me han ido ofreciendo
 
 ### 1. -[Conceptos](https://github.com/jesusromero92/NGINX/blob/main/Indices/Practica/conceptos.md)
