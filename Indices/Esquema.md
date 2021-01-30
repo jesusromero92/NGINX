@@ -1,4 +1,4 @@
-# Esquema de Red
+# Esquema de Red 💡
 
 El proyecto consta de una máquina fisica con DEBIAN 10,un servidor NGINX **VIRTUALIZADO** con DEBIAN 10,y un cliente **VIRTUALIZADO** con DEBIAN 10
 
