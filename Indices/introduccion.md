@@ -1,7 +1,7 @@
 # Introducción  📌
-Este proyecto trataré de investigar sobre NGINX
+Este proyecto trataré de investigar sobre VSFTPD
 
-## ¿Qué es NGINX?
-Es un famoso software de servidor web de código abierto. En su versión inicial, funcionaba en servidores web HTTP. Sin embargo, hoy en día también sirve como proxy inverso, balanceador de carga HTTP y proxy de correo electrónico para IMAP, POP3 y SMTP.
+## ¿Qué es VSFTPD?
+Vsftpd (Very Secure FTP Daemon), es un servicio FTP que permite implementar servicios de archivos mediante protocolo FTP, caracterizándose principalmente porque se trata de un sistema muy seguro, a la vez que muy sencillo de configurar.
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/logo.png)
