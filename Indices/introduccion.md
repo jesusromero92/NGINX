@@ -1,7 +1,7 @@
 # Introducción  📌
-Este proyecto trataré de investigar sobre VSFTPD
+Este proyecto trataré de investigar sobre NGINX
 
-## ¿Qué es VSFTPD?
-Vsftpd (Very Secure FTP Daemon), es un servicio FTP que permite implementar servicios de archivos mediante protocolo FTP, caracterizándose principalmente porque se trata de un sistema muy seguro, a la vez que muy sencillo de configurar.
+## ¿Qué es NGINX?
+Es un servidor web de código abierto que, desde su éxito inicial como servidor web, ahora también es usado como proxy inverso, cache de HTTP, y balanceador de carga.
 
 ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/logo.png)
